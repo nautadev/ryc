@@ -10035,7 +10035,7 @@ hr.light {
     color: #fff;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgb(255, 255, 255);
     padding: 0 1rem;
   }
   #mainNav .navbar-nav .nav-item .nav-link:hover {
@@ -10065,7 +10065,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, #1c4d73c9 0%, #1c4d7338 100%), url("../assets/img/pic05.jpg");
+  background: linear-gradient(to bottom, #f8991c8c, #154c78), url("../assets/img/1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
